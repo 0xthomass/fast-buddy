@@ -1,4 +1,5 @@
 in case you're wondering, i'm well aware that, isocaloric to a non-fasting diet, fasting doesn't seem to have significant clinical benefits; however, it remains a powerful tool to promote a caloric deficit.
+the "autophagy" ui thing is just for fun.
 
 # Fast Buddy
 
